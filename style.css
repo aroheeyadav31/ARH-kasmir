@@ -6,25 +6,25 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient: Very light blue-gray to Pale blue;
+  background: linear-gradient: sky-blue;
   color:Very dark gray;
   line-height: 1.6;
 }
 
 header {
-  background: linear-gradient: Teal green to Light green;
-  color: white;
+  background: linear-gradient:dark-green;
+  color:white;
   padding: 30px 20px;
   text-align: center;
 }
 
 marquee h1 {
-  font-size: 2.5rem;
+  font-size: 2.5;
   font-weight: bold;
 }
 
 aside {
-  background: linear-gradient: Very pale green to Mint green;
+  background: linear-gradient;
   padding: 20px;
   text-align: center;
   font-size: 1.1rem;
@@ -80,7 +80,7 @@ article:hover {
 }
 
 footer {
-  background: linear-gradient; Teal green to Light green;
+  background: linear-gradient: dark-green;
   color: white;
   padding: 20px;
   text-align: center;
