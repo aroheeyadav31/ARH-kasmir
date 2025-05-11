@@ -10,9 +10,9 @@ body {
 header {
   background: linear-gradient (to- right, #2c3e50, #4ca1af);
   color: white;
-  padding: 20 px;
+  padding: 25 px;
   text-align: center;
-  font-size: 2 em;
+  font-size: 5 em;
 }
 
 
